@@ -157,6 +157,8 @@ The notebooks may require the relevant Python packages, saved model files, and c
 - Evaluate retention strategies using observed customer outcomes.
 - Automate data processing and prediction generation.
 
+Live Demo: https://harshit1017kaushik-create.github.io/Churn-Analysis/
+
 ## Author
 
 **Harshit Kaushik**
